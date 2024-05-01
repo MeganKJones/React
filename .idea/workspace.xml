@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e46e67f4-284f-435e-a48f-55c7100c4322" name="Changes" comment="removed .idea" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2eDcCVSMlk0gwYjRp4DoUWhkvCD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/meganjones/Learning/react&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/PyCharm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/Styling" />
+      <recent name="$PROJECT_DIR$/Styling-practice" />
+      <recent name="$PROJECT_DIR$/../Styling-practice" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e46e67f4-284f-435e-a48f-55c7100c4322" name="Changes" comment="" />
+      <created>1711442463268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711442463268</updated>
+      <workItem from="1711442464834" duration="3346000" />
+      <workItem from="1711527335672" duration="3607000" />
+      <workItem from="1711613799202" duration="2082000" />
+      <workItem from="1711994264793" duration="7952000" />
+      <workItem from="1712130578687" duration="651000" />
+      <workItem from="1712131247530" duration="2310000" />
+      <workItem from="1712212405376" duration="5295000" />
+      <workItem from="1712558894376" duration="5132000" />
+      <workItem from="1712644345684" duration="3108000" />
+      <workItem from="1712822550872" duration="1379000" />
+      <workItem from="1713163705127" duration="4148000" />
+      <workItem from="1713169305700" duration="10000" />
+      <workItem from="1713423536477" duration="5724000" />
+      <workItem from="1713504026851" duration="8597000" />
+      <workItem from="1713768758645" duration="3575000" />
+      <workItem from="1714047922750" duration="1969000" />
+    </task>
+    <task id="LOCAL-00001" summary="committing initial first project">
+      <option name="closed" value="true" />
+      <created>1712130815451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712130815451</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed .idea">
+      <option name="closed" value="true" />
+      <created>1712131078541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712131078541</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed .idea">
+      <option name="closed" value="true" />
+      <created>1712131257377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712131257377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="separated into smaller files">
+      <option name="closed" value="true" />
+      <created>1712133646228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712133646228</updated>
+    </task>
+    <task id="LOCAL-00005" summary="separating out more">
+      <option name="closed" value="true" />
+      <created>1712217943827</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712217943827</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tic-tac-toe initial commit">
+      <option name="closed" value="true" />
+      <created>1712823119647</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712823119647</updated>
+    </task>
+    <task id="LOCAL-00007" summary="switches player and has log capability">
+      <option name="closed" value="true" />
+      <created>1713167961560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713167961560</updated>
+    </task>
+    <task id="LOCAL-00008" summary="reducing state management">
+      <option name="closed" value="true" />
+      <created>1713424198624</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713424198624</updated>
+    </task>
+    <task id="LOCAL-00009" summary="same button cant be pressed twice">
+      <option name="closed" value="true" />
+      <created>1713424401412</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713424401412</updated>
+    </task>
+    <task id="LOCAL-00010" summary="can now win/draw game">
+      <option name="closed" value="true" />
+      <created>1713426723403</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713426723403</updated>
+    </task>
+    <task id="LOCAL-00011" summary="can restart game">
+      <option name="closed" value="true" />
+      <created>1713427043721</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713427043721</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Game over screen shows name">
+      <option name="closed" value="true" />
+      <created>1713427668133</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713427668133</updated>
+    </task>
+    <task id="LOCAL-00013" summary="tidying up app function">
+      <option name="closed" value="true" />
+      <created>1713443185166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713443185166</updated>
+    </task>
+    <task id="LOCAL-00014" summary="investment calculator commit">
+      <option name="closed" value="true" />
+      <created>1713518878121</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713518878121</updated>
+    </task>
+    <task id="LOCAL-00015" summary="removed .venv">
+      <option name="closed" value="true" />
+      <created>1713519078395</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713519078395</updated>
+    </task>
+    <task id="LOCAL-00016" summary="removed .idea">
+      <option name="closed" value="true" />
+      <created>1713519110338</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713519110338</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committing initial first project" />
+    <MESSAGE value="separated into smaller files" />
+    <MESSAGE value="separating out more" />
+    <MESSAGE value="tic-tac-toe initial commit" />
+    <MESSAGE value="switches player and has log capability" />
+    <MESSAGE value="reducing state management" />
+    <MESSAGE value="same button cant be pressed twice" />
+    <MESSAGE value="can now win/draw game" />
+    <MESSAGE value="can restart game" />
+    <MESSAGE value="Game over screen shows name" />
+    <MESSAGE value="tidying up app function" />
+    <MESSAGE value="investment calculator commit" />
+    <MESSAGE value="removed .venv" />
+    <MESSAGE value="removed .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed .idea" />
+  </component>
+</project>
